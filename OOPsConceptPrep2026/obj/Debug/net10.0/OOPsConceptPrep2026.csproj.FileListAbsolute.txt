@@ -1,0 +1,14 @@
+D:\Interview Prep 2026\OOPSConcept\OOPSConcept\OOPsConceptPrep2026\bin\Debug\net10.0\OOPsConceptPrep2026.exe
+D:\Interview Prep 2026\OOPSConcept\OOPSConcept\OOPsConceptPrep2026\bin\Debug\net10.0\OOPsConceptPrep2026.deps.json
+D:\Interview Prep 2026\OOPSConcept\OOPSConcept\OOPsConceptPrep2026\bin\Debug\net10.0\OOPsConceptPrep2026.runtimeconfig.json
+D:\Interview Prep 2026\OOPSConcept\OOPSConcept\OOPsConceptPrep2026\bin\Debug\net10.0\OOPsConceptPrep2026.dll
+D:\Interview Prep 2026\OOPSConcept\OOPSConcept\OOPsConceptPrep2026\bin\Debug\net10.0\OOPsConceptPrep2026.pdb
+D:\Interview Prep 2026\OOPSConcept\OOPSConcept\OOPsConceptPrep2026\obj\Debug\net10.0\OOPsConceptPrep2026.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview Prep 2026\OOPSConcept\OOPSConcept\OOPsConceptPrep2026\obj\Debug\net10.0\OOPsConceptPrep2026.AssemblyInfoInputs.cache
+D:\Interview Prep 2026\OOPSConcept\OOPSConcept\OOPsConceptPrep2026\obj\Debug\net10.0\OOPsConceptPrep2026.AssemblyInfo.cs
+D:\Interview Prep 2026\OOPSConcept\OOPSConcept\OOPsConceptPrep2026\obj\Debug\net10.0\OOPsConceptPrep2026.csproj.CoreCompileInputs.cache
+D:\Interview Prep 2026\OOPSConcept\OOPSConcept\OOPsConceptPrep2026\obj\Debug\net10.0\OOPsConceptPrep2026.dll
+D:\Interview Prep 2026\OOPSConcept\OOPSConcept\OOPsConceptPrep2026\obj\Debug\net10.0\refint\OOPsConceptPrep2026.dll
+D:\Interview Prep 2026\OOPSConcept\OOPSConcept\OOPsConceptPrep2026\obj\Debug\net10.0\OOPsConceptPrep2026.pdb
+D:\Interview Prep 2026\OOPSConcept\OOPSConcept\OOPsConceptPrep2026\obj\Debug\net10.0\OOPsConceptPrep2026.genruntimeconfig.cache
+D:\Interview Prep 2026\OOPSConcept\OOPSConcept\OOPsConceptPrep2026\obj\Debug\net10.0\ref\OOPsConceptPrep2026.dll
