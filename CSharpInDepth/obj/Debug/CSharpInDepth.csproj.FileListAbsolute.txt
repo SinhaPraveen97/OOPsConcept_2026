@@ -1,0 +1,7 @@
+C:\D Drive\B2\Agility\MVC\OOPSConcept\CSharpInDepth\bin\Debug\CSharpInDepth.exe.config
+C:\D Drive\B2\Agility\MVC\OOPSConcept\CSharpInDepth\bin\Debug\CSharpInDepth.exe
+C:\D Drive\B2\Agility\MVC\OOPSConcept\CSharpInDepth\bin\Debug\CSharpInDepth.pdb
+C:\D Drive\B2\Agility\MVC\OOPSConcept\CSharpInDepth\obj\Debug\CSharpInDepth.csprojAssemblyReference.cache
+C:\D Drive\B2\Agility\MVC\OOPSConcept\CSharpInDepth\obj\Debug\CSharpInDepth.csproj.CoreCompileInputs.cache
+C:\D Drive\B2\Agility\MVC\OOPSConcept\CSharpInDepth\obj\Debug\CSharpInDepth.exe
+C:\D Drive\B2\Agility\MVC\OOPSConcept\CSharpInDepth\obj\Debug\CSharpInDepth.pdb
